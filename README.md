@@ -1,7 +1,7 @@
 # Responsive Images: Project Part 1 #
 
 > ## NB
-> This does not contain the original files and file structure that comes with this course.
+> This does not contain the original files and file structure that comes with this course's project.
 > I made modifications so that I could deploy the project locally on my Windows laptop as a NodeJS project.
 > Get the original project from this link: [http://udacity.github.io/responsive-images/downloads/RI-Project-Part-1-Start.zip](http://udacity.github.io/responsive-images/downloads/RI-Project-Part-1-Start.zip).
 
