@@ -1,5 +1,10 @@
 # Responsive Images: Project Part 1 #
 
+> ## NB
+> This is does not contain the original files and file structure that comes with this course.
+> I made modifications so that I could deploy the project locally on my Windows laptop as a NodeJS project.
+> Get the original project from this link: [http://udacity.github.io/responsive-images/downloads/RI-Project-Part-1-Start.zip](http://udacity.github.io/responsive-images/downloads/RI-Project-Part-1-Start.zip).
+
 ## Your Goals: ##
 
 * Make the images fit in their containers in the viewport.
@@ -27,8 +32,3 @@ Check the page with the Chrome Dev Tools:
 * Try out emulation on different devices, portrait and landscape (click the icon next to the dimensions). What problems do you notice with each image? Which ones look worse?
 
 Check the page from Page Speed Insights -- lots more problems!
-
-> ## NB
-> This is does not contain the original files and file structure that comes with this course.
-> I made modifications so that I could deploy the project locally on my Windows laptop as a NodeJS project.
-> Get the original project from this link: [http://udacity.github.io/responsive-images/downloads/RI-Project-Part-1-Start.zip](http://udacity.github.io/responsive-images/downloads/RI-Project-Part-1-Start.zip).
