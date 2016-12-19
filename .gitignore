@@ -1,0 +1,8 @@
+.DS_Store
+.env
+build
+jsconfig.json
+node_modules
+npm-debug.log
+typings
+typings.json
